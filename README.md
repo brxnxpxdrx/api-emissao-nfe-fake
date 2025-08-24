@@ -16,3 +16,4 @@ Uma API simulada para **emissão, consulta, inutilização e cancelamento de not
 http://localhost:3000
 
 
+npm i nf-e-fake
