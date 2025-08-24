@@ -36,7 +36,7 @@ http://localhost:3000
   "justificativaCancelamento": "string (opcional)",
   "dataCancelamento": "ISO Date String (opcional)"
 }
-Inutilização
+### **InutilizaçãoInutilização**
 {
   "idInutilizacao": "string",
   "emitente": { "nome": "string", "cnpj": "string" },
